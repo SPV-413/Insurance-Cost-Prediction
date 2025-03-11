@@ -1,8 +1,0 @@
-## Version from demo branch
-
-## def division(x,y):
-   return x/y
-
-## def rect(l,b):
-   return l*b
-   return 2*(l+b)
