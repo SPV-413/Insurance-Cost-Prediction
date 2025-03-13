@@ -66,8 +66,5 @@ Ensure you have the following installed:
 - **XGBoost Regressor** achieved the highest R2 Score.
 - The project successfully demonstrates data preprocessing, model training, evaluation, and hyperparameter tuning.
 
-## License
-This project is open-source!
-
 ## Contact
 For any inquiries, reach out via GitHub or email.
