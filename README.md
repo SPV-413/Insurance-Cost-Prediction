@@ -65,6 +65,7 @@ Ensure you have the following installed:
 ## Results
 - **XGBoost Regressor** achieved the highest R2 Score.
 - The project successfully demonstrates data preprocessing, model training, evaluation, and hyperparameter tuning.
+- This will contribute to minimizing financial risks, improving risk assessment, determining premiums in the insurance sector and enhancing customer benefits.
 
 ## Contact
 For any inquiries, reach out via GitHub or email.
