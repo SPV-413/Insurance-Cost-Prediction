@@ -28,7 +28,7 @@ This project is about predicting medical expenses in order to determine premiums
 - Splitting dataset into training & testing sets (`train_test_split`)
   
 ### 3. **Machine Learning Models**
-The project implements multiple machine learning algorithms & one neural network algorithm for regression:
+The project implements multiple machine learning algorithms & one deep learning algorithm for regression:
 - **Linear Regression**
 - **Decision Tree Regressor**
 - **Random Forest Regressor**
